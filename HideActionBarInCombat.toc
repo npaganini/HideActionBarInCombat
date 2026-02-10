@@ -9,6 +9,3 @@
 ## X-Wago-ID: 96E7JXGg
 
 HideActionBarInCombat.lua
-
-
-
