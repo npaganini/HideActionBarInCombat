@@ -3,8 +3,12 @@
 ## Notes: Hides Action Bar 1 during combat.
 ## Author: Kara of Kel'thuzad US
 ## IconTexture: Interface\Addons\HideActionBarInCombat\Texture\icon-texture
-## Version: 1.0
+## Version: @project-version@
+
+## X-Curse-Project-ID: 1109184
+## X-Wago-ID: 96E7JXGg
 
 HideActionBarInCombat.lua
+
 
 
